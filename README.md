@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Worpdress site development
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: twitter.com/izzilan
+
 <!--
 **izzilan/izzilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
